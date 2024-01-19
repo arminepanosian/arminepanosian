@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @arminepanosian
-- 🌱 I’m currently learning Python programming language
-- 📫 How to reach me: armine.p13@gmail.com
-
+I'm a passionate Full-Stack Developer with expertise in Python, JavaScript, React, Node.js, Django, MongoDB and MySQL.
+My journey involves building web applications, games, and diving into the world of data science and computer science.
